@@ -80,4 +80,7 @@ Permite entregar productos de alta calidad de manera incremental y colaborativa.
 
 ## Conclusión
 
-SCRUM fomenta la colaboración, la adaptabilidad y la entrega continua de valor. Es ideal para proyectos donde los requisitos pueden cambiar y la innovación es clave.
+SCRUM fomenta la colaboración, la adaptabilidad y la entrega continua de valor.
+Es ideal para proyectos donde los requisitos pueden cambiar y la innovación es clave.
+es Perfecto para crear productos nuevos y complejos.
+Tiene una estructura más rígida con roles, eventos y ciclos de tiempo fijos (sprints). Es más prescriptivo.
